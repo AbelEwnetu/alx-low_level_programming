@@ -1,6 +1,7 @@
 #include <unistd.h>
 
-/** main - Prints exactly the text
+/**
+ * main - Prints exactly the text
  *
  * Return: Always 1 (Success)
  */
