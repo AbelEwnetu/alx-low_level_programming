@@ -1,4 +1,4 @@
-A read me file for 0x17. C - Doubly linked lists mandatory tasks.
+a read me file for 0x17. C - Doubly linked lists mandatory tasks.
 
 Task 0- Write a function that prints all the elements of a dlistint_t list.
 Task 1- Write a function that returns the number of elements in a linked dlistint_t list.
